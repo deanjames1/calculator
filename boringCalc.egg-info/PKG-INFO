@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: boringCalc
+Version: 0.0.1
+Summary: A very simple calculator app.
+Home-page: UNKNOWN
+Author: Dean James (deanjames1)
+Author-email: deanomcardle@gmail.com
+License: UNKNOWN
+Keywords: python,calculator
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+A calculator with 4 functions (addition, subtraction, multiplication and division) plus a neat little rating system a the end.
+

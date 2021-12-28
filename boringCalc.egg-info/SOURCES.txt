@@ -1,0 +1,8 @@
+setup.py
+boringCalc/__init__.py
+boringCalc/boringCalc.py
+boringCalc/rating.py
+boringCalc.egg-info/PKG-INFO
+boringCalc.egg-info/SOURCES.txt
+boringCalc.egg-info/dependency_links.txt
+boringCalc.egg-info/top_level.txt
